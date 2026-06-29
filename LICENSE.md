@@ -1,4 +1,4 @@
-# 
+# Nativo WizTree plugins para Mac OS | Oficial WizTree plugins para PC Windows. Con gestión de ventanas y optimización de refrigeración — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
